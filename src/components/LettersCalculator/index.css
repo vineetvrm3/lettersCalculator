@@ -1,0 +1,13 @@
+/* Write your code here. */
+.bg-container {
+  background-image: linear-gradient(to left, #1d976c, #93f9b9);
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image {
+  width: 800px;
+}
